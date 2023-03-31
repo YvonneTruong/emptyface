@@ -1,0 +1,78 @@
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: xx-large;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  border: 5px solid black;
+  font-size: x-large;
+}
+.Suche {
+  display: flex;
+  align-items: center;
+}
+
+.headline {
+  display: flex;
+  justify-content: left;
+}
+
+.JeansD {
+  margin-right: 200px;
+  margin-top: 200px;
+  background-color: black;
+}
+
+.oberteiled {
+  margin-right: 200px;
+  background-color: rgb(0, 0, 0);
+  margin-top: 200px;
+}
+
+.GlamkleiderD {
+  margin-right: 200px;
+  margin-top: 200px;
+  background-color: black;
+}
+.anzugundhoseh {
+  margin-right: 200px;
+  background-color: black;
+  margin-top: 200px;
+}
+.damenschrift {
+  color: white;
+}
+.herrenschrift {
+  color: white;
+}
+.sneakerD {
+  background-color: black;
+  margin-top: 200px;
+}
+.testButton:hover {
+  background-color: beige;
+}
+.Account:hover {
+  display: flex;
+  justify-content: right;
+}
+.Search {
+  display: flex;
+  justify-content: right;
+}
+
+.herrenschrift {
+  color: white;
+}
+.sneakerh {
+  background-color: gray;
+  margin-top: 200px;
+}
+.Logo {
+  display: flex;
+  justify-content: left;
+}
+.hintergrund {
+  background-color: gray;
+}
